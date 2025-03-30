@@ -2,7 +2,7 @@
 
 ## 📸 Project Preview  
 ![App Screenshot](images/Fake.png)  
-![App Screenshot](images/true.png)  
+![App Screenshot](images/True.png)  
 
 ## 📖 Overview  
 Fake News Detection is an AI-based project that identifies whether a news article is **real or fake** using **machine learning model**.  
