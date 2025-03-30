@@ -1,7 +1,7 @@
 # 📰 Fake News Detection using Machine Learning
 
 ## 📸 Project Preview  
-![App Screenshot](images/fake.png)  
+![App Screenshot](images/Fake.png)  
 ![App Screenshot](images/true.png)  
 
 ## 📖 Overview  
